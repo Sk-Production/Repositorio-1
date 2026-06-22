@@ -1,4 +1,4 @@
-Algoritmo: Compartir información confiable en internet
+Algoritmo: Compartir información confiable en internet:
 
 Encontrar la información que se desea compartir.
 Leer el contenido completo y no solo el título.
